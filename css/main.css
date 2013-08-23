@@ -1,0 +1,20 @@
+
+body {
+    color:blue;
+}
+
+p {
+    font-family:bold;
+}
+
+#bar {
+    font-family: italic;
+}
+
+.foo {
+    font-color:red;
+}
+
+#r2c2 {
+     border:2px solid red;
+ }
