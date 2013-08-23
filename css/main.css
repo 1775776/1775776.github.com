@@ -1,20 +1,25 @@
 
 body {
-    color:blue;
+    background-color:BurlyWood;
 }
 
 p {
-    font-family:bold;
+    font-weight:bold;
 }
 
 #bar {
-    font-family: italic;
+    font-weight:normal;
+    font-style: italic;
 }
 
 .foo {
-    font-color:red;
+    color:red;
 }
 
 #r2c2 {
      border:2px solid red;
  }
+
+table,tr,td {
+    border:1px solid blue;
+}
